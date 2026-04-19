@@ -8,7 +8,7 @@ Currently seeking **Data Analyst / Business Analyst** roles in India.
 
 ## 🔧 Tech Stack
 **Languages:** Python · SQL  
-**Analytics:** Pandas · NumPy · EDA · Data Cleaning · Variance Analysis  
+**Analytics:** Pandas · NumPy · EDA · Data Cleaning · Data Analysis  
 **Visualisation:** Power BI · Excel · Matplotlib · Seaborn  
 **ML:** Scikit-learn · MLflow · Regression · Classification · Clustering  
 **Tools:** Streamlit · GitHub · Jupyter  
